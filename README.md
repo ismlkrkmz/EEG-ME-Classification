@@ -4,8 +4,6 @@
 [![Journal](https://img.shields.io/badge/Journal-Computer%20Methods%20in%20Biomechanics%20and%20Biomedical%20Engineering-6a1b9a)](https://www.tandfonline.com/journals/gcmb20)
 ![Year](https://img.shields.io/badge/Year-2025-black)
 
-> **Status**: This file will be updated after our research article is accepted and published.
-
 A concise entry point for citing and discovering our paper.
 
 ---
